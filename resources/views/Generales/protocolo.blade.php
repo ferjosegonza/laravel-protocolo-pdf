@@ -79,13 +79,6 @@
                             <li>Personal de servicios tercerizados.</li>
                             <li>Público en general.</li>
                         </ul>
-                        {{--
-                        <p>{{$pathResolucion}}</p>
-                        <p>{{$pathFormulario}}</p>--}}
-
-                        {{--
-                        <a href="{{ asset('pdf/pdf1.pdf') }}" class="btn btn-primary" download>Descargar PDF 1</a>
-                        <a href="{{ asset('pdf/pdf2.pdf') }}" class="btn btn-primary" download>Descargar PDF 2</a>--}}
                     </div>
                 </div>
             </div>
